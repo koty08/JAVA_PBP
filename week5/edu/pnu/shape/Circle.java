@@ -1,4 +1,4 @@
-package edu.pnu.edit;
+package edu.pnu.shape;
 
 import edu.pnu.shape.Shape;
 
